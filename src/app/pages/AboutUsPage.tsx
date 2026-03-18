@@ -6,29 +6,29 @@ const teamMembers = [
   {
     name: "Woraprat Chaiyakul",
     role: "Full Stack Developer",
-    email: "woraprat@smartboat.com",
+    email: "s6519410056@sau.ac.th",
     avatar: "W",
     color: "from-teal-400 to-cyan-500",
   },
   {
-    name: "Somchai Prasert",
+    name: "Chatchai Chaisen",
     role: "AI Engineer",
-    email: "somchai@smartboat.com",
-    avatar: "S",
+    email: "s6519410058@sau.ac.th",
+    avatar: "C",
     color: "from-blue-400 to-blue-500",
   },
   {
-    name: "Anchana Wongsa",
+    name: "Chatsiri Taobumrung",
     role: "UI/UX Designer",
-    email: "anchana@smartboat.com",
-    avatar: "A",
+    email: "s6519410039@sau.ac.th",
+    avatar: "C",
     color: "from-purple-400 to-purple-500",
   },
   {
-    name: "Preecha Tanaka",
+    name: "Tada Siangwaong",
     role: "IoT Specialist",
-    email: "preecha@smartboat.com",
-    avatar: "P",
+    email: "s6519410057@sau.ac.th",
+    avatar: "T",
     color: "from-orange-400 to-orange-500",
   },
 ];
@@ -58,7 +58,7 @@ export function AboutUsPage() {
             <GraduationCap className="w-10 h-10 text-white" />
           </div>
           <div className="flex-1">
-            <h3 className="text-xl font-semibold text-gray-900 mb-2">Chulalongkorn University</h3>
+            <h3 className="text-xl font-semibold text-gray-900 mb-2">Southeast Asia University (SAU) </h3>
             <div className="flex items-center gap-2 text-gray-600 mb-2">
               <Building2 className="w-4 h-4" />
               <p className="text-sm">Faculty of Engineering</p>
